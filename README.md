@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=goldeneye5671&count_private=true&theme=gruvbox&showicons=true)](https://github.com/goldeneye5671?tab=repositories)
+
 <!--
 **goldeneye5671/goldeneye5671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
