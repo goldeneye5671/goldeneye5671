@@ -3,6 +3,7 @@
 ## About Me
   Programming has been a passion of mine ever since I received my first computer from my dad many years ago. Over the years I have done many things to learn how to code, such as taking programming courses throughout my high school years, going to college for computer science for a few semesters, and going to the App Academy coding bootcamp. I have made several projects along the way and have learned many technologies, some within the span of a few weeks, and had to use those technologies to make amazing projects with a quick turnaround time. I have enjoyed my time learning and now want to spend my time doing, with some learning along the way
 ## Here's what I know
+- COBOL, JCL, and VSAM (Yes you read that right!)
 - JavaScript, NodeJS, NVM, ES6
 - ReactJS
 - ExpressJS
@@ -16,7 +17,7 @@
 - Pug
 - Jinja
 - Docker
-- Heroku
+- AWS
   ...And so much more!!
 ## Links
 
